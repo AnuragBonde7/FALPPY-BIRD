@@ -1,0 +1,1 @@
+This repository contains a Java implementation of the classic Flappy Bird game. Flappy Bird is a simple yet addictive game where the player controls a bird and tries to navigate it through a series of obstacles by tapping the screen or pressing a key to make the bird flap its wings and fly.
