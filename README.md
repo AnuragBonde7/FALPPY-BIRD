@@ -14,3 +14,8 @@ User Interface: Simple user interface displays current score, and game over mess
 
 https://github.com/AnuragBonde7/Flappy-Bird-Game/assets/146638549/b9d55414-2e36-45ac-a511-fd3f432f70dc
 
+Contributing:
+Contributions to this project are welcome! Whether you want to suggest improvements, fix bugs, or add new features, feel free to submit a pull request.
+
+Acknowledgments:
+Special thanks to original creator of Flappy Bird for inspiration and to the Java community for resources and support in developing this project.
